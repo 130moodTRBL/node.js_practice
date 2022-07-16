@@ -1,0 +1,26 @@
+header {
+    color: rgb(24, 182, 255);
+    border-bottom: 3px solid rgb(24, 182, 255);
+    padding-left: 100px;
+}
+#blockSelect {
+    width: 350px;
+    height: 830px;
+    float: left;
+    border-right: 3px solid black;
+}
+#blockPut {
+    width: 350px;
+    height: 830px;
+    float: left;
+    border-right: 3px solid black;
+}
+input {
+    width: 80px;
+    height: 35px;
+    font-size: 20px;
+}
+#arrayblock {
+    width: 1000px;
+    height: 830px;
+}

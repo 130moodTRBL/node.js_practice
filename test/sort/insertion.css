@@ -1,0 +1,9 @@
+header {
+    border-bottom: 3px solid black;
+    padding-left: 40px;
+    font-size: 20px;
+    color: deepskyblue;
+}
+article table{
+    padding: 200px;
+}

@@ -1,0 +1,8 @@
+#sort {
+    border-bottom: red double;
+}
+article h2 {
+    border-bottom: 3px double red;
+    margin-left: 200px;
+    width: 20;
+}
