@@ -9,7 +9,7 @@ function clear() {
   for (let i = 0; i < 5; i++) {
     let x = 40 + i * 25;
     let y = 40;
-    context.clearRect(x, y, 50 * n, 30 * n); ///
+    context.clearRect(x, y, 50 * n, 30 * n); //
   }
 }
 
